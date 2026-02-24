@@ -6,4 +6,4 @@
 
 ## Food Company Python Analysis
 - Sales trends, product performance, and visualizations
-- File: `food_company_analysis.ipynb`
+- File: `Food_hub_project.ipynb`
