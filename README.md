@@ -2,7 +2,7 @@
 
 ## Vehicle Sales SQL Analysis
 - Overview of sales, customers, revenue, and satisfaction metrics
-- File: `vehicle_sales_analysis.sql`
+- File: `New_Wheels_Project.sql`
 
 ## Food Company Python Analysis
 - Sales trends, product performance, and visualizations
